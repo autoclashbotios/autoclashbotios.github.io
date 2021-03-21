@@ -1,0 +1,18 @@
+
+
+footer .column1 {
+position: relative;
+top: -18px;
+}
+.video-wrap {
+background-color: #111;
+}
+.slider_content_inner div p span {
+width: 50%;
+    display: inline-block;
+}
+
+.q_logo > a {
+height: 100px;
+max-height: 100px;
+}

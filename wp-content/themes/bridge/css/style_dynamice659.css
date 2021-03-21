@@ -1,0 +1,516 @@
+    /* Webkit */
+    ::selection {
+    background: #7fb4fa;
+    }
+    /* Gecko/Mozilla */
+    ::-moz-selection {
+    background: #7fb4fa;
+    }
+
+
+
+
+    body{
+    	    	    	font-family: 'Open Sans', sans-serif;
+    	    	 color: #444444;     	 font-size: 16px;     	    }
+    
+
+
+
+
+
+
+
+header.sticky .header_bottom{
+	background-color: rgba(255,255,255,0.5) !important;
+}
+
+
+
+
+
+
+								.content{
+				margin-top: -446px;
+			}
+			
+	.content.content_top_margin{
+		margin-top: 230px !important;
+	}
+
+
+
+
+        header.fixed_hiding .q_logo a,
+        header.fixed_hiding .q_logo{
+            max-height: 158.5px;
+        }
+
+
+
+
+    .touch section.parallax_section_holder{
+		height: auto !important;
+		min-height: 300px;  
+		background-position: center top !important;  
+		background-attachment: scroll;
+        background-size: cover;
+	}
+
+
+
+nav.main_menu > ul > li > a{
+			font-family: 'Open Sans', sans-serif;
+		    				}
+
+
+
+
+
+
+
+
+
+.drop_down .second .inner > ul > li > a,
+.drop_down .second .inner > ul > li > h3,
+.drop_down .wide .second .inner > ul > li > h3,
+.drop_down .wide .second .inner > ul > li > a,
+.drop_down .wide .second ul li ul li.menu-item-has-children > a,
+.drop_down .wide .second .inner ul li.sub ul li.menu-item-has-children > a,
+.drop_down .wide .second .inner > ul li.sub .flexslider ul li  h5 a,
+.drop_down .wide .second .inner > ul li .flexslider ul li  h5 a,
+.drop_down .wide .second .inner > ul li.sub .flexslider ul li  h5,
+.drop_down .wide .second .inner > ul li .flexslider ul li  h5,
+.header_top #lang_sel ul li ul li a {
+			font-family: 'Open Sans', sans-serif !important;
+							}
+	.drop_down .wide .second .inner>ul>li>a
+	{
+				font-family: 'Open Sans', sans-serif !important;
+								}
+.drop_down .wide .second .inner ul li.sub ul li a,
+.drop_down .wide .second ul li ul li a,
+.drop_down .second .inner ul li.sub ul li a,
+.drop_down .wide .second ul li ul li a,
+.drop_down .wide .second .inner ul li.sub .flexslider ul li .menu_recent_post,
+.drop_down .wide .second .inner ul li .flexslider ul li .menu_recent_post a,
+.drop_down .wide .second .inner ul li .flexslider ul li .menu_recent_post,
+.drop_down .wide .second .inner ul li .flexslider ul li .menu_recent_post a{
+			font-family: 'Open Sans', sans-serif;
+							}
+.drop_down .wide.icons .second i{
+    }
+
+
+header.scrolled nav.main_menu > ul > li > a,
+header.light.scrolled nav.main_menu > ul > li > a,
+header.dark.scrolled nav.main_menu > ul > li > a{
+			font-family: 'Open Sans', sans-serif !important;
+							}
+
+header.sticky nav.main_menu > ul > li > a, 
+header.light.sticky nav.main_menu > ul > li > a, 
+header.dark.sticky nav.main_menu > ul > li > a{
+			font-family: 'Open Sans', sans-serif !important;
+							}
+
+
+
+nav.mobile_menu ul li a,
+nav.mobile_menu ul li h3{
+			font-family: 'Open Sans', sans-serif;
+							}
+
+
+
+
+
+
+
+
+h1,
+.h1,
+.title h1 {
+			font-family: 'Montserrat', sans-serif;
+					        }
+.title h1{
+			font-family: 'Montserrat', sans-serif;
+						}
+
+
+h2,
+.h2,
+h2 a{
+				font-family: 'Montserrat', sans-serif;
+					    	}
+h3,
+.h3,
+h3 a{
+			font-family: 'Montserrat', sans-serif;
+					    	}
+h4,
+.h4,
+h4 a{
+				font-family: 'Montserrat', sans-serif;
+					    	}
+h5,
+.h5,
+h5 a,
+.q_icon_with_title .icon_text_holder h5.icon_title{
+			font-family: 'Montserrat', sans-serif;
+					    	}
+h6,
+.h6,
+h6 a {
+			font-family: 'Montserrat', sans-serif;
+							}
+
+    p{
+    	color: #444444;    	    		font-family: 'Open Sans', sans-serif;
+    	    	font-size: 16px;    	line-height: 22px;    	font-style: normal;    	    	    	    }
+    .filter_holder ul li span,
+    blockquote h5,
+    .q_social_icon_holder .simple_social,
+    .header-widget.widget_nav_menu ul.menu li a,
+    .side_menu a,
+    .side_menu li,
+    .side_menu span,
+    .side_menu p,
+    .side_menu .widget.widget_rss li a.rsswidget,
+    .side_menu #wp-calendar caption,
+    .side_menu #wp-calendar th, 
+    .side_menu #wp-calendar td,
+    aside .widget #lang_sel_list li a,
+    aside .widget #lang_sel li a,
+    aside .widget #lang_sel_click li a,
+    .wpb_widgetised_column .widget #lang_sel_list li a,
+    .wpb_widgetised_column .widget #lang_sel li a,
+    .wpb_widgetised_column .widget #lang_sel_click li a,
+    section.side_menu #lang_sel_list li a,
+    section.side_menu #lang_sel li a,
+    section.side_menu #lang_sel_click li a,
+    footer #lang_sel_list li a,
+    footer #lang_sel li a,
+    footer #lang_sel_click li a,
+    footer #lang_sel_list.lang_sel_list_horizontal a,
+    footer #lang_sel_list.lang_sel_list_vertical a,
+    .side_menu #lang_sel_list.lang_sel_list_horizontal a,
+    .side_menu #lang_sel_list.lang_sel_list_vertical a,
+    #lang_sel_footer a{
+    	color: #444444;    }
+    .header_top #lang_sel > ul > li > a, 
+    .header_top #lang_sel_click > ul > li> a,
+    footer #lang_sel ul li a,
+    footer #lang_sel ul ul a,
+    footer #lang_sel_click ul li a,
+    footer #lang_sel_click ul ul a,
+    footer #lang_sel_click ul ul a span,
+    section.side_menu #lang_sel ul li a,
+    section.side_menu #lang_sel ul ul a,
+    section.side_menu #lang_sel ul ul a:visited,
+    section.side_menu #lang_sel_click > ul > li > a,
+    section.side_menu #lang_sel_click ul ul a,
+    section.side_menu #lang_sel_click ul ul a:visited{
+    	color: #444444 !important;    }
+            .woocommerce del,
+        .woocommerce-page del,
+        .woocommerce input[type='text']:not(.qode_search_field),
+        .woocommerce input[type='password'],
+        .woocommerce input[type='email'],
+        .woocommerce-page input[type='text']:not(.qode_search_field),
+        .woocommerce-page input[type='password'],
+        .woocommerce-page input[type='email'],
+        .woocommerce-page input[type='tel'],
+        .woocommerce textarea,
+        .woocommerce-page textarea,
+        .woocommerce .select2-container .select2-choice,
+        .woocommerce-page .select2-container .select2-choice,
+        .woocommerce .select2-dropdown-open.select2-drop-above .select2-choice,
+        .woocommerce .select2-dropdown-open.select2-drop-above .select2-choices,
+        .woocommerce-page .select2-dropdown-open.select2-drop-above .select2-choice,
+        .woocommerce-page .select2-dropdown-open.select2-drop-above .select2-choices,
+        .woocommerce .chosen-container.chosen-container-single .chosen-single,
+        .woocommerce-page .chosen-container.chosen-container-single .chosen-single,
+        .woocommerce-checkout .form-row .chosen-container-single .chosen-single,
+        .woocommerce ul.products li.product h4,
+        .woocommerce div.product p[itemprop='price'] del,
+        .woocommerce div.product p[itemprop='price'] del span.amount,
+        .woocommerce div.product div.product_meta > span span,
+        .woocommerce div.product div.product_meta > span a,
+        .woocommerce aside ul.product_list_widget li > a,
+        .woocommerce aside ul.product-categories li > a,
+        .woocommerce aside ul.product_list_widget li del span.amount,
+        .wpb_widgetised_column ul.product_list_widget li > a,
+        .wpb_widgetised_column ul.product-categories li > a,
+        .wpb_widgetised_column ul.product_list_widget li del span.amount,
+        .shopping_cart_dropdown ul li a,
+        .select2-drop{
+            color: #444444;
+        }
+    
+	.subtitle {
+		font-family: "Open Sans";	}
+	
+	.title .text_above_title {
+		font-family: "Open Sans";	}
+	
+
+
+
+
+
+
+	.qbutton.big_large,
+	.qbutton.big_large_full_width {
+
+									
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	.footer_top h5 {
+font-family: "Open Sans", sans-serif	}
+
+
+
+	.footer_top,
+	.footer_top .footer_col1,
+	.footer_top .container_inner > .widget,
+	.footer_top.footer_top_full > .widget{
+		text-align: center;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Blog Masonry Gallery - end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ .vertical_menu_float .menu-item .second{
+	left: calc(100% + 30px); /*because of the padding*/
+}
+
+.vertical_menu_hidden aside.vertical_menu_area .vertical_menu_float .menu-item .second {
+	left: calc(100% + 40px);
+}
+
+ 
+ 
+ 
+
+
+
+
+	.vertical_menu_area{
+		text-align:left;
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	.header_top .q_social_icon_holder .simple_social:not(.qode_icon_font_elegant):not(.qode_icon_font_awesome),
+	.header_top .header-widget,
+	.header_top .header-widget.widget_nav_menu ul.menu>li>a,
+	.header_top .header-widget p,
+	.header_top .header-widget a,
+	.header_top .header-widget span:not(.qode_icon_font_elegant):not(.qode_icon_font_awesome) {
+	     font-family: "Open Sans";	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.qode-type1-gradient-left-to-right { background: linear-gradient(to right,#c1544b, #4e7fad);}
+
+.qode-type1-gradient-bottom-to-top, .qode-type1-gradient-bottom-to-top-after:after { background: linear-gradient(to top,#c1544b, #4e7fad);}
+
+.qode-type1-gradient-left-bottom-to-right-top { background: linear-gradient(to right top,#c1544b, #4e7fad);}
+
+.qode-type1-gradient-left-to-right-2x { background: linear-gradient(to right,#c1544b 0%, #4e7fad 50%,#c1544b 100%);background-size: 200% 200%;}
+
+.qode-type1-gradient-left-to-right-text i, .qode-type1-gradient-left-to-right-text i:before, .qode-type1-gradient-left-to-right-text span { background: -webkit-linear-gradient(right top,#4e7fad, #c1544b);color: #c1544b;-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+
+.qode-type1-gradient-bottom-to-top-text i, .qode-type1-gradient-bottom-to-top-text i:before, .qode-type1-gradient-bottom-to-top-text span, .qode-type1-gradient-bottom-to-top-text span span { background: -webkit-linear-gradient(bottom,#4e7fad, #c1544b);color: #c1544b;-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+
+.qode-type1-gradient-bottom-to-top-text-hover:hover i, .qode-type1-gradient-bottom-to-top-text-hover:hover i:before, .qode-type1-gradient-bottom-to-top-text-hover:hover span, .qode-type1-gradient-bottom-to-top-text-hover:hover span span { background: -webkit-linear-gradient(bottom,#4e7fad, #c1544b);color: #c1544b;-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+
